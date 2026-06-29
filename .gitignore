@@ -4,3 +4,6 @@ __pycache__/
 *.csv
 .ipynb_checkpoints/
 AES_Data_Scientist_Take_Home_Assessment 1.pdf
+.env
+.idea/
+.claude/settings.local.json
